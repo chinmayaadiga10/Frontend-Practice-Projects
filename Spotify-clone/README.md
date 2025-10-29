@@ -36,7 +36,7 @@ The goal of this project was to replicate the UI and layout of the Amazon homepa
 
 ## 📸 Preview
 
-![Homepage Screenshot](Screenshot 2025-10-27 185757.png)
+![Homepage Screenshot](./demo.png)
 
 ## 🙌 Acknowledgments
 
