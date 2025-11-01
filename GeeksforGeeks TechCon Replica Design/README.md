@@ -45,8 +45,8 @@ Event Page/
 
 ## 📸 Preview
 
-![Homepage Screenshot-1](./preview1.png)
-![Homepage Screenshot-2](./preview2.png)
+![Homepage Screenshot-1](./Preview%201.png)
+![Homepage Screenshot-2](./Preview%202.png)
 
 ## 🙌 Acknowledgments
 
