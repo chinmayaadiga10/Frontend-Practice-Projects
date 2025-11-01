@@ -1,0 +1,98 @@
+* {
+  margin: 0px;
+  font-family: "Nunito", sans-serif;
+}
+
+.green-part {
+  background-color: rgb(75, 177, 75);
+  height: 10rem;
+}
+
+.heading {
+  padding-top: 2rem;
+  color: white;
+  text-align: center;
+  font-weight: 900;
+}
+
+.description {
+  padding-top: 1rem;
+  text-align: center;
+  color: white;
+}
+
+.navigation-panel {
+  height: 2.5rem;
+  width: 100%;
+  background-color: rgb(65, 61, 61);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  color: white;
+  padding-right: 1.5rem;
+}
+
+.main-content {
+  background-color: #f0f0f0;
+}
+.event-info {
+  background-color: white;
+  width: 80%;
+  height: 13rem;
+  border-radius: 0.5rem;
+  box-shadow: 0px 4px 8px rgb(18, 18, 18, 0.5);
+  /* border: 1px solid black; */
+  margin: 1.5rem auto;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.info-heading {
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: rgb(42, 109, 211);
+  padding: 1rem;
+}
+
+.info-content {
+  padding: 1rem;
+  opacity: 0.75;
+}
+
+.event-schedule {
+  background-color: white;
+  width: 80%;
+  height: 25rem;
+  /* border: 1px solid black; */
+  border-radius: 0.5rem;
+  margin: 1.5rem auto;
+  box-shadow: 0px 4px 8px rgb(18, 18, 18, 0.5);
+}
+
+.table {
+  width: 90%;
+  height: 50%;
+}
+
+.event-heading {
+  color: rgb(42, 109, 211);
+  font-weight: 800;
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.table-content {
+  /* background-color: white; */
+  width: 100%;
+  padding-left: 3.5rem;
+  padding-top: 2rem;
+  margin: auto;
+  display: flex;
+  justify-content: flex-start;
+}
